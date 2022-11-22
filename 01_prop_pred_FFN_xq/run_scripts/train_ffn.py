@@ -2,7 +2,7 @@
     Train a ffn model. 
 """
 
-from pred_ffn.train import train
+import pred_ffn.train as train
 import logging
 import time
 
